@@ -1,0 +1,12 @@
+# import { Link } from "gatsby"
+# import Layout from "../components/layout"
+# import SEO from "../components/seo"
+
+Layout:
+  - SEO:
+      title: Page two
+  - h1: Hi from the second page
+  - p: Welcome to Page 2
+  - Link: 
+      to: /
+      txt: Go back to the homepage

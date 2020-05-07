@@ -1,0 +1,14 @@
+# import { Link } from "gatsby"
+
+# import Layout from "../components/layout"
+# import SEO from "../components/seo"
+
+Layout:
+  - SEO:
+      title: Home
+  - h1: Hello World
+  - div.pt-4:
+      - p: Welcome to YAMLayout!
+  - Link:
+      to: /page-2/
+      txt: Go to page 2

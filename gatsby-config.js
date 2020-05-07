@@ -15,7 +15,7 @@ module.exports = {
     { 
       resolve: `gatsby-plugin-purgecss`,
       options: {
-        printRejected: true,
+        printRejected: false,
       }
     },
     {

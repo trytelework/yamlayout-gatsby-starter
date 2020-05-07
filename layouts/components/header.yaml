@@ -1,0 +1,8 @@
+# import { Link } from "gatsby"
+# import PropTypes from "prop-types"
+
+header:
+  - div.headerCont:
+      - h1:
+        - Link:
+            to: /

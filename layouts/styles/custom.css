@@ -23,3 +23,8 @@ a {
 .pt-4 {
   margin: 4rem 0rem;
 }
+
+header {
+  background: "#003c8f";
+  margin-bottom: 1.45rem,
+}
