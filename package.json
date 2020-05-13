@@ -2,7 +2,7 @@
   "name": "yamlayout-gatsby-starter",
   "private": true,
   "description": "A Gatsby starter for working with yamlayout.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Telework Inc. <hello@trytelework.com>",
   "dependencies": {
     "@material-ui/core": "^4.9.13",
@@ -33,7 +33,7 @@
     "yaml",
     "yamlayout"
   ],
-  "license": "SEE LICENSE IN LICENSE/LICENSE",
+  "license": "SEE LICENSE IN .LICENSE/LICENSE",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
